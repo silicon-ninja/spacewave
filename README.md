@@ -1,4 +1,11 @@
-# spacewave
+# Spacewave 
+
+
+Idea is to make timmer like forest app but where the user can select the planets and based on the planet they can set the timmer. 
+
+
+Add Support to take notes and control spotify and apple music
+
 
 A new Flutter project.
 
